@@ -64,7 +64,7 @@ const MyCarousel = () => (
     <Box w="full" h={'100vh'}>
       <Image src={img1} />
       <Heading bgColor={'blackAlpha.600'} color={'white'} {...headingOptions} >
-        Watch The Foutere Today :)
+        Watch The Foutere Today :)git 
       </Heading>
     </Box>
     <Box w="full" h={'100vh'}>
